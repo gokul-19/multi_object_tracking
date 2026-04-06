@@ -68,6 +68,10 @@ multi-object-tracking/
 (https://drive.google.com/file/d/1ANhcxu1WXoy5mfGp5w2awJl-rNE9kp3P/view?usp=sharing)
 
 ---
+## 📹 Output Video
+(https://drive.google.com/file/d/1O3rDgtrAobjfO10dGbBTgZ3BdF_snnUp/view?usp=sharing)
+
+---
 
 ## 🛠️ Tech Stack
 Python, OpenCV, YOLOv8, DeepSORT, Google Colab
