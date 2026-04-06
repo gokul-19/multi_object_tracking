@@ -48,7 +48,7 @@ multi-object-tracking/
 ## ⚙️ How to Run (Google Colab)
 
 1. Open notebook:
-[https://colab.research.google.com/drive/YOUR_NOTEBOOK_LINK](https://colab.research.google.com/drive/1WVkxpGlR1oxBOVcGrNewmppd3W3xDTGf?usp=sharing)
+(https://colab.research.google.com/drive/1WVkxpGlR1oxBOVcGrNewmppd3W3xDTGf?usp=sharing)
 
 2. Install:
 !pip install ultralytics opencv-python-headless deep-sort-realtime
